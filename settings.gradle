@@ -1,0 +1,5 @@
+rootProject.name='MyAndroidLib'
+include ':app'
+include ':okhttplib'
+include ':myrxjajva'
+include ':waterflayout'
